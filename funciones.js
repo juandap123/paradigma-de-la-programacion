@@ -13,6 +13,12 @@ function hola(x){
 
 };
 
+function division(x) {
+    let accion = x / 2
+    return accion 
+         
+};
+
 console.log(division(5));
 
 let resultado = 0;
