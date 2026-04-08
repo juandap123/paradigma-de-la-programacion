@@ -1,0 +1,68 @@
+{
+  "construccion": [
+    {
+      "id": "1",
+      "first_name": "Anallese",
+      "last_name": "Bilton",
+      "email": "abilton0@godaddy.com",
+      "gender": "Female",
+      "ip_address": "37.68.114.247",
+      "ip_programacion": "Supervisor"
+    },
+    {
+      "id": "2",
+      "first_name": "Corbet",
+      "last_name": "McGibbon",
+      "email": "cmcgibbon1@w3.org",
+      "gender": "Agender",
+      "ip_address": "155.168.40.3",
+      "ip_programacion": "Construction Worker"
+    },
+    {
+      "id": "3",
+      "first_name": "Yorke",
+      "last_name": "Perulli",
+      "email": "yperulli2@usgs.gov",
+      "gender": "Male",
+      "ip_address": "19.140.91.147",
+      "ip_programacion": "Supervisor"
+    },
+    {
+      "id": "4",
+      "first_name": "Charissa",
+      "last_name": "Blenkiron",
+      "email": "cblenkiron3@list-manage.com",
+      "gender": "Female",
+      "ip_address": "26.19.29.53",
+      "ip_programacion": "Subcontractor"
+    },
+    {
+      "id": "5",
+      "first_name": "juan",
+      "apellido": "Farnando",
+      "correo electrónico": "fernando4@ifeng.com",
+      "género": "Agender",
+      "dirección_ip": "75.30.199.31",
+      "ip_programacion": "Supervisor"
+    },
+    {
+      "id": "38",
+      "first_name": "jose",
+      "last_name": "Bilton",
+      "email": "josemartinez@gmail.com",
+      "gender": "Female",
+      "ip_address": "37.68.114.247",
+      "ip_programacion": "Supervisor"
+    },
+    {
+      "id": "49",
+      "first_name": "cristiano",
+      "apellido": "Blenkiron",
+      "correo electrónico": "cristiano@list-manage.com",
+      "género": "masculino",
+      "dirección_ip": "26.19.29.53",
+      "ip_programacion": "Subcontratista"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
